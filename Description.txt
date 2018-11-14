@@ -1,0 +1,10 @@
+Simple extension to move tabs in Opera
+Inspired by the Chrome extension Rearrange Tabs (https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga)
+	
+	Windows:
+	Use Shift + Alt + Left to move a tab to the left
+	Use Shift + Alt + Right to move a tab to the right
+	
+	Mac:
+	Use Shift + Ctrl + Left to move a tab to the left
+	Use Shift + Ctrl + Right to move a tab to the right
